@@ -1,17 +1,17 @@
-### Project 3 - File storage
+# Project 3 - File storage
 
 Building a file storage app that allows user upload/view/edit/delete files
 
 - - - -
 
-### Owners
+## Owners
 
 - [J(Jehee) Choi](https://github.com/JeheeChoi)
 - [Christopher Farish](https://github.com/orgs/CJNJC/people/CPF32)
 
 - - - -
 
-### Planning, process and problem-solving strategy
+## Planning, process and problem-solving strategy
 
 - Day 1: Wireframe, ERD, front end/backend init, and catalog of routes. AWS s3 bucket setup, backend model schema
 - Day 2: MOB coding of backend API routes, front end create function
@@ -20,7 +20,7 @@ Building a file storage app that allows user upload/view/edit/delete files
 
 - - - -
 
-### User Stories
+## User Stories
 - As an unregistered user, I would like to sign up with email and password.
 - As a registered user, I would like to sign in with email and password.
 - As a signed in user, I would like to change password.
@@ -34,7 +34,7 @@ Building a file storage app that allows user upload/view/edit/delete files
 
 - - - -
 
-### WireFrames
+## WireFrames
 
 - J
 
@@ -46,7 +46,7 @@ Building a file storage app that allows user upload/view/edit/delete files
 
 - - - -
 
-### Important Links
+## Important Links
 
 - [Project Front End Repo]
 - [Project Back End Repo]
@@ -55,7 +55,7 @@ Building a file storage app that allows user upload/view/edit/delete files
 
 - - - -
 
-### Technologies Used
+## Technologies Used
 
 - React
 - JavaScript
